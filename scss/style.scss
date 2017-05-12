@@ -57,7 +57,7 @@ h4{
         color: #FFB164;
     }
     
-   /*-------------------------------------*/
+    /*-------------------------------------*/
     
     .cf:before, .cf:after{
       content:"";
@@ -74,21 +74,6 @@ h4{
 
     /*-------------------------------------*/
     
-    .cf:before, .cf:after{
-      content:"";
-      display:table;
-    }
-    
-    .cf:after{
-      clear:both;
-    }
-
-   .cf{
-      zoom:1;
-    }
-
-    /*-------------------------------------*/	
-    
     .form-wrapper {
         max-width:100%;
         padding: 10px;
@@ -100,8 +85,8 @@ h4{
     
     .form-wrapper input {
       max-width:100%;
-        width: 385px;
-        height: 40px;
+        width: 375px;
+        height: 20px;
         padding: 10px 5px;
         float: left;   
         font: bold 15px 'Century Gothic', 'Century GothicS', 'Century Gothic';
@@ -139,7 +124,7 @@ h4{
     }    
     
     .form-wrapper button {
-		overflow: visible;
+overflow: visible;
         position: relative;
         float: right;
         border: 0;
@@ -157,9 +142,9 @@ h4{
         text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
     }   
       
-    .form-wrapper button:hover{		
+    .form-wrapper button:hover{
         background: #e54040;  
-    }	
+    }
       
     .form-wrapper button:active,
     .form-wrapper button:focus{   
@@ -188,4 +173,6 @@ h4{
         border: 0;
         padding: 0;
     }
+
+
 
