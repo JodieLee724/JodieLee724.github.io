@@ -72,6 +72,21 @@ h4{
       zoom:1;
     }
 
+    /*-------------------------------------*/
+    
+    .cf:before, .cf:after{
+      content:"";
+      display:table;
+    }
+    
+    .cf:after{
+      clear:both;
+    }
+
+   .cf{
+      zoom:1;
+    }
+
     /*-------------------------------------*/	
     
     .form-wrapper {
@@ -85,8 +100,8 @@ h4{
     
     .form-wrapper input {
       max-width:100%;
-        width: 375px;
-        height: 20px;
+        width: 385px;
+        height: 40px;
         padding: 10px 5px;
         float: left;   
         font: bold 15px 'Century Gothic', 'Century GothicS', 'Century Gothic';
