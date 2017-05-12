@@ -157,7 +157,7 @@ body {
     
     .form-wrapper input {
       max-width:100%;
-        width: 359px;
+        width: 375px;
         height: 20px;
         padding: 10px 5px;
         float: left;   
@@ -245,7 +245,4 @@ body {
         border: 0;
         padding: 0;
     }
-
-
-
 
