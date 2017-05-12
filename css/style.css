@@ -22,6 +22,22 @@
   max-width: 100%;
 }
 
+.Top {
+  max-width:100%;
+}
+
+.Top1 {
+  max-width:100%;
+
+}
+
+.Text1 {
+  max-width:95%;
+  font-size: 14px;　　
+  ine-Height: 10px;
+  　
+}
+
 h1 {
   color: #77b300;
   font-family: "Krinkes Regular PERSONAL USE";
@@ -47,6 +63,12 @@ body {
   font: 13px 'Century Gothic', Century Gothic, Century Gothic;
   color: black;
 }
+
+＃hottestbody {
+      background: #FFB164 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAB9JREFUeNpi/P//PwM6YGLAAuCCmpqacC2MRGsHCDAA+fIHfeQbO8kAAAAASUVORK5CYII=);
+      color: #FFB164;
+      text-align: center;
+    }
 
 a {
   color: #FFB164;

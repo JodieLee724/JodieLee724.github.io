@@ -10,13 +10,10 @@
 .Text1 {
   max-width:95%;
   font-size: 14px;　　
-  Line-Height: 10px;
-  　
+  ine-Height: 10px; 　
 }
 
-----------------------------------
-
-body {
+＃hottestbody {
         background: #FFB164 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAB9JREFUeNpi/P//PwM6YGLAAuCCmpqacC2MRGsHCDAA+fIHfeQbO8kAAAAASUVORK5CYII=);
         font: 13px 'Century Gothic', Century Gothic, Century Gothic;
         color: #FFB164;
